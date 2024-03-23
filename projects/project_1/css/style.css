@@ -1,0 +1,109 @@
+#topbar{
+    background-color: black;
+    height: 20px;
+    width: 100%;
+}
+
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#header{
+    height: 70px;
+}
+
+#header image{
+    float: left;
+}
+
+#header ul{
+    float: right;
+    
+}
+
+#header ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#header ul li{
+    display: inline;
+    padding: 10px;
+}
+
+#banner{
+     height: 400px;
+     margin-bottom: 20px;
+}
+
+#services{
+    height: 250px;
+}
+
+#box1{
+    height: 250px;
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+    background-color: orange;
+}
+
+#box2{
+    height: 250px;
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+    background-color: green;
+}
+
+#box3{
+    height: 250px;
+    width: 32%;
+    float: right;
+    background-color: yellow;
+}
+
+.right{
+    padding: 15px;
+}
+
+.right1{
+    margin-bottom: 27px;
+}
+
+.style{
+    background-color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 7px;
+}
+
+.style1{
+    background-color: white;
+    text-decoration: none;
+    margin: 0px 0px 0px 15px;
+    padding: 7px;
+}
+
+#intro1{
+    height: 200px;
+    width: 60%;
+    float: left;
+}
+
+#intro2{
+    height: 200px;
+    width: 40%;
+    float: right;
+}
+
+#footer{
+    background-color: black;
+    height: 20px;
+    color: gray;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
+

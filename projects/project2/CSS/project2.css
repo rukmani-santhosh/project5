@@ -1,0 +1,68 @@
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#header ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#header ul li{
+    display: inline;
+    padding: 10px;
+}
+
+#header ul{
+    float: right;
+}
+
+#heading1{
+     margin: 15px;
+     float: left;
+     font: Roboto;
+}
+
+#banner{
+    background-color: blueviolet;
+    height: 500px;
+    width: 70%;
+    float: left;
+    color: white;
+}
+
+#banner1{
+    background-color: blueviolet;
+    height: 500px;
+    width: 30%;
+    float: right;
+    color: white;
+}
+#image{
+    padding-top: 350px;
+}
+
+.banners{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+
+#intro{
+    background-color: red;
+    height: 90px;
+    clear: both;
+}
+
+#intro1{
+    height: 300px;
+    width: 70%;
+    float: left;
+}
+
+#intro2{
+    background-color: darkgreen;
+    height: 300px;
+    width: 30%;
+    float: right;
+}

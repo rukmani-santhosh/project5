@@ -1,0 +1,182 @@
+#header{
+      height: 50px;
+      width: 100%;
+      background-color: white;
+      margin-bottom: 2px;
+      
+}
+
+#header ul a{
+    text-decoration: none;
+    color: black;
+
+}
+
+#header ul{
+    float: right;
+}
+
+#header ul li{
+    display: inline;
+    padding: 20px;
+}
+
+#banner{
+    height: 400px;
+    /* background-color: yellow; */
+    width: 100%;
+    clear: both;
+
+}
+
+#banner1{
+    height: 60px;
+    /* background-color: greenyellow; */
+    width: 100%;
+    font-family: cursive;
+    text-align: Center;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+#container{
+    height: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+#box1{
+    height: 500px;
+    width: 28%;
+    float: left;
+    margin-right:5%;
+}
+
+#safari{
+    font-family: cursive;
+    text-align: center;
+}
+
+.safari1{
+    border: 2px solid ;
+    font-family: cursive;
+    padding: 35px;
+    height: 145px;
+}
+
+#box2{
+    height: 500px;
+    width: 35%;
+    float: left;
+    margin-right: 5%;
+}
+
+#boxpara{
+    font-family: cursive;
+    padding-left: 28px;
+}
+
+#box3{
+    height: 500px;
+    width: 20%;
+    float: right;
+}
+
+#banner2{
+    height: 50px;
+    width: 100%;
+    clear: both;
+    background-color: white;
+}
+
+#button{
+    text-decoration: none;
+    color: red;
+    margin-left: 550px;
+    padding: 15px;
+     border: 1px solid red;
+     border-radius: 50px;
+     margin-top: 50px;
+}
+
+#banner3{
+    height: 50px;
+    width: 100%;
+    padding-left: 570px;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+
+#banner4{
+    background-color: darkgoldenrod;
+    height: 540px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+#intro{
+    /* background-color: darkred; */
+    height: 1200px;
+    width: 70%; 
+    float: left;
+    padding-top: 5px;
+    float: left;
+}
+
+#intro-1{
+    font-family: cursive;
+    font-size: 1.5rem;
+    padding-left: 450px;
+}
+
+#img-1{
+    background-color: purple;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.pic{
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.para{
+    text-align: center;
+}
+
+
+#intro1{
+    /* background-color: darkorchid; */
+    height: 1200px;
+    padding-top: 5px;
+    border: 1px solid black;
+    width: 25%;
+    float: right;
+}
+
+#footer-1{
+    text-align: center;
+    font-family: cursive;
+}
+
+#footer-2{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+#footer-3{
+    text-align: center;
+}
+
+#footer-4{
+    color: red;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 50px;
+    padding: 15px;
+    margin-left: 80px;
+
+}
